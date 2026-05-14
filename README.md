@@ -245,7 +245,7 @@ event sharing, and technique-driven thinking.
 ## 🔗 LinkedIn Post
 
 > Full demo video and details available on LinkedIn:
-> [View Post](https://github.com/AhmedYaser-Mt/Project-24-Tic_Tac_Toe-Game) ← *(replace with LinkedIn post link)*
+> [View Post](https://www.linkedin.com/posts/ahmed-yaser-mt_csharp-dotnet-winforms-ugcPost-7460771546198900736--WAc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPMIswBcvLoTHZvRE41ps8H-E1OpPUyxeo)
 
 ---
 
