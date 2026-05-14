@@ -6,7 +6,7 @@
 
 ## 🖼️ Application Preview
 
-<img width="1108" height="724" alt="image" src="https://github.com/user-attachments/assets/72dbcee5-a24e-4bb6-a3f7-acee1616d1d5" />
+<img width="800" height="523" alt="image" src="https://github.com/user-attachments/assets/72dbcee5-a24e-4bb6-a3f7-acee1616d1d5" />
 
 ---
 
