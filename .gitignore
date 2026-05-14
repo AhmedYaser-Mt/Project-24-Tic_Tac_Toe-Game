@@ -1,0 +1,12 @@
+# Build results
+bin/
+obj/
+ECHO is off.
+# User-specific files
+*.user
+*.suo
+*.cache
+ECHO is off.
+# Executables
+*.exe
+*.dll
